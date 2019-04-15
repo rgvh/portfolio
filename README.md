@@ -16,9 +16,9 @@ Actual time needed to complete: 4 hrs
 
 Number and name of feature: Feature #2: Modify the contents
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 2 hrs
 
-Start time: _____
+Start time: 12:30 pm 4/15/19
 
 Finish time: _____
 
