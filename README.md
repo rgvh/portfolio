@@ -20,6 +20,6 @@ Estimate of time needed to complete: 2 hrs
 
 Start time: 12:30 pm 4/15/19
 
-Finish time: _____
+Finish time: 5:45 pm 4/15/19
 
-Actual time needed to complete: _____
+Actual time needed to complete: 4 hrs
