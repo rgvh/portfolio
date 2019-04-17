@@ -10,6 +10,8 @@ const PORT=process.env.PORT;
 
 app.use(express.static('./public'));
 
+app.get('/', (request, response) => response.send ('index'));
+
 app.get('/hello', (request, response) => {
   response.status(200).send('<h1>Hello</h1>')
 });
