@@ -25,7 +25,21 @@ Finish time: 5:45 pm 4/15/19
 
 Actual time needed to complete: 4 hrs
 
-Code 301 - Lab 05
+Code 301 - Lab 05a
+
+Number and name of feature: Feature #1: Add CDNs, change breakpoint for hamburger menu from tablet view to mobile view, and add background image carosel. 
+
+Estimate of time needed to complete: 2:30 min
+
+Start time: 3:30 pm 4/17/19 8:30 pm
+
+Finish time: 12:00 pm 4/19/19 6:30 pm *
+
+Actual time needed to complete: 5 hrs
+
+Background image slideshow implimentation from CSS-Tricks by Chris Coyier: https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/
+
+Code 301 - Lab 05b
 
 Number and name of feature: Feature #1: Add CDNs, change breakpoint for hamburger menu from tablet view to mobile view, and add background image carosel. 
 
