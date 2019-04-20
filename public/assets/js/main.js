@@ -14,8 +14,8 @@
   breakpoints({
     wide: ['961px', '1880px'],
     normal: ['961px', '1620px'],
-    narrow: ['961px', '1320px'],
-    narrower: ['737px', '960px'],
+    narrow: ['737px', '1320px'],
+    // narrower: ['737px', '960px'],
     mobile: [null, '736px']
   });
 
@@ -25,6 +25,19 @@
       $body.removeClass('is-preload');
     }, 100);
   });
+
+  // Slideshow on background banner.
+
+  // $("#slideshow > div:gt(0)").hide();
+
+  // setInterval(function() {
+  //   $('#slideshow > div:first')
+  //     .fadeOut(1000)
+  //     .next()
+  //     .fadeIn(1000)
+  //     .end()
+  //     .appendTo('#slideshow');
+  // }, 3000);
 
   // Nav.
   var $nav_a = $nav.find('a');
