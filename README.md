@@ -43,13 +43,13 @@ Code 301 - Lab 05b
 
 Number and name of feature: Feature #1: Add CDNs, change breakpoint for hamburger menu from tablet view to mobile view, and add background image carosel. 
 
-Estimate of time needed to complete: 2:30 min
+Estimate of time needed to complete: 2 hrs
 
-Start time: 3:30 pm 4/17/19 8:30 pm
+Start time: 3:30 pm 4/19/19 6:30 pm
 
-Finish time: 12:00 pm 4/19/19 6:30 pm *
+Finish time: 12:00 pm 4/20/19 8:00 am
 
-Actual time needed to complete: 5 hrs
+Actual time needed to complete:  Incomplete
 
 
 Footer:
